@@ -2,4 +2,10 @@
 
 ## Software Development Kit (SDK) for PHP
 
-Docs are coming!!!!
+### Installation using composer
+
+```bash
+$ composer require tgx/api
+```
+
+**API Docs are coming!!!!**
