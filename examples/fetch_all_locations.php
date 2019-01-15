@@ -3,7 +3,7 @@
 require_once '../src/tgx/Client.php';
 require_once '../src/tgx/resources/Country.php';
 
-$client = new tgx\Client('avaldevilap@gmail.com', '2e613420f80dede25b192bbd193e3d330bec393ea02d879254c196cf8e7769e1');
+$client = new tgx\Client('myaccount@mymail.com', '5bdbab0f8fd271b31b5dd2b6bd1962700ce384bb39b719960fb5bf0e24c7dd50');
 
 $spain = new tgx\resources\Country('ES', 'Spain');
 $locations = $client->contents()->fetchCountryLocations($spain);

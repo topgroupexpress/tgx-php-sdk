@@ -9,7 +9,7 @@ require_once 'RequestsClient.php';
 
 class Client
 {
-    private static $api_host = 'http://127.0.0.1:8000';
+    private static $api_host = 'https://www.t3admin.com';
 
     private $email;
     private $token;

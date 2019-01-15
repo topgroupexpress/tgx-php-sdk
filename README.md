@@ -8,4 +8,8 @@
 $ composer require tgx/api
 ```
 
+### How to obtain the API credentials?
+
+Write an email to api@topgroupexpress.com arguing your request.
+
 **API Docs are coming!!!!**
