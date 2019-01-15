@@ -1,0 +1,28 @@
+{
+    "name": "tgx/api",
+    "type": "library",
+    "description": "Enables PHP applications to communicate with the TGX API.",
+    "keywords": [
+        "api",
+        "http",
+        "rest",
+        "ecommerce",
+        "business"
+    ],
+    "homepage": "https://docs.t3admin.com",
+    "licence": "MIT",
+    "authors": [
+        {
+            "name": "Roberto Antonio Becerra García",
+            "email": "rbecerra@topgroupexpress.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "tgx\\": "src"
+        }
+    }
+}
